@@ -2,6 +2,7 @@
 
 ## HepsiEmlak Soru 1
 ![alt text](./img/palindrom_sayi.png)
+89 sayısının palindromunu bulmak için 58 kez zincirleme olarak tekrarlamamız gerek.
 
 ## HepsiEmlak Soru 2
 

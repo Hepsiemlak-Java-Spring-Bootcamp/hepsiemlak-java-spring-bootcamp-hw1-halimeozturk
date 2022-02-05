@@ -18,8 +18,8 @@ public class Main {
 //        MessageService messageService = new MessageService();
 //        messageService.createMessageList(8);
 
-        Question1 question1 = new Question1();
-        question1.result();
+//        Question1 question1 = new Question1();
+//        question1.result();
 //
 //        FilterService filterService = new FilterService();
 //        filterService.favoriteList("ayse.sari@gmail.com");

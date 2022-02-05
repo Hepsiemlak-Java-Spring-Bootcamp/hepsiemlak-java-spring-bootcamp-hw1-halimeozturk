@@ -77,7 +77,7 @@ Tek tabloda tutmak istedim belki çok daha iyi bir yöntem vardır ama şimdilik
 
 RealEstate class içeriği aşağıdaki gibidir.
 
-![alt text](./img/img4.png)
+![alt text](./img/realestate_6.png)
 
 
 Burda hepsiemlak sitesinde ilan oluştura bastığımda gelen alanların çoğunu koymaya çalıştım.Burda sadece ilişkili olan yapıları açıklayacağım.
